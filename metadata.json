@@ -1,0 +1,6 @@
+{
+  "name": "App de Excursões",
+  "description": "Uma aplicação para gerenciar as excursões da Santo Tour Viagens, apresentando formulários responsivos com campos específicos e máscaras de entrada.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
